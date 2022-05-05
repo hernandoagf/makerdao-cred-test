@@ -8,7 +8,7 @@
     },
     {
       "budget": "1250",
-      "discount": 0.8
+      "discount": 0.8,
       "policyType": "RECENT",
       "exclusions": ["61DNKf97TdmqBPWohZ6wQw//ElProgreso"]
     }
