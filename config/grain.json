@@ -2,15 +2,15 @@
   "allocationPolicies": [
     {
       "budget": "3750",
-      "discount": 0.3,
+      "discount": 0.6,
       "policyType": "RECENT",
-      "exclusions": ["Lz5sWrFRUKtZu1WCb2pPVg//adcv"]
+      "exclusions": []
     },
     {
       "budget": "1250",
-      "discount": 0.8,
+      "discount": 0.25,
       "policyType": "RECENT",
-      "exclusions": ["61DNKf97TdmqBPWohZ6wQw//ElProgreso"]
+      "exclusions": []
     }
   ],
   "maxSimultaneousDistributions": 100
